@@ -4,8 +4,8 @@
 ## Step.0 蒐集資料集與網站上傳
 自行蒐集資料集或使用網路上公開資料集(如: Kaggle、COCO、Roboflow Universe等)，如下圖使用先前上銀機械手臂比賽的撞球影像共50張(數量可以找30、50或以上)，選擇Roboflow(https://roboflow.com/) 網站登入
 
-![0](https://github.com/user-attachments/assets/683f062d-902e-4620-bbd4-3a826709f9b9)
-![1](https://github.com/user-attachments/assets/f0490943-ac50-467f-be1c-f882ea23e663)
+![0](https://github.com/user-attachments/assets/f62f5fe9-c076-4e81-9cd7-71aee012bf23)
+![1](https://github.com/user-attachments/assets/d52403fc-e84c-4011-9128-ab918dcf729e)
 
 
 點選Create New Project，依照自行需求選擇Project Type類型，這邊就以Object Detection作為示範，建立完專案後，進行自定義資料集建置與上傳。
