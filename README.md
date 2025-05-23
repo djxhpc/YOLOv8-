@@ -2,7 +2,7 @@
 使用Roboflow資料集或自訂義資料集訓練，並使用YOLOv8模型進行訓練(利用Google Colab)，再利用訓練完的模型檔(best.pt)與撰寫程式來即時辨識現實物體影像。
 
 ## Step.0 蒐集資料集與網站上傳
-自行蒐集資料集或使用網路上公開資料集(如: Kaggle、COCO、Roboflow Universe等)，如下圖使用先前上銀機械手臂比賽的撞球影像共50張(數量可以找30、50或以上)，選擇Roboflow(https://roboflow.com/) 網站登入
+自行蒐集資料集或使用網路上公開資料集(如: Kaggle、COCO、Roboflow Universe等)，如下圖使用先前上銀機械手臂比賽的撞球影像共50張(數量可以找30、50或以上)，選擇Roboflow(https://roboflow.com/) 網站登入。
 
 ![0](https://github.com/user-attachments/assets/6d879476-14df-47ec-901f-3db743d3d717)
 
@@ -42,7 +42,7 @@
 ![9](https://github.com/user-attachments/assets/784a30a6-7ede-416d-a002-22374952398e)
 
 
-載入YOLOv8與Python影像套件，將前面Roboflow建好的專案輸出貼到Colab中，如下圖所示
+載入YOLOv8與Python影像套件，將前面Roboflow建好的專案輸出貼到Colab中，如下圖所示:
 
 ![10](https://github.com/user-attachments/assets/77b16ac2-b3bd-45b5-9e6d-c96f55e1a399)
 
