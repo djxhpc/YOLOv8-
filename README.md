@@ -3,10 +3,9 @@
 
 ## Step.0 蒐集資料集與網站上傳
 自行蒐集資料集或使用網路上公開資料集(如: Kaggle、COCO、Roboflow Universe等)，如下圖使用先前上銀機械手臂比賽的撞球影像共50張(數量可以找30、50或以上)
-```
+
 ![0](https://github.com/user-attachments/assets/0988c7d7-ae8c-4fb5-addc-097f5c4d48ef)
 
-```
 ## Step.1 Clone OpenPose
 
 ```
