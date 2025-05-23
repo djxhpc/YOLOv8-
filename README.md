@@ -8,6 +8,7 @@
 ![1](https://github.com/user-attachments/assets/a2bb046a-fdc0-41e9-83e7-fbfd54172f49)
 
 點選Create New Project，依照自行需求選擇Project Type類型，這邊就以Object Detection作為示範，建立完專案後，進行自定義資料集建置與上傳。
+
 ![2](https://github.com/user-attachments/assets/80f23803-a6cd-45f9-ac6c-fd055c678ebb)
 ![3](https://github.com/user-attachments/assets/93c0a312-2c17-4a34-a5db-843be78b4151)
 
