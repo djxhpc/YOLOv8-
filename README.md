@@ -62,7 +62,7 @@
 
 
 ## 延伸應用
-可將訓練完模型輸出，進行其他如撞球、水果、汽車或其他物件等即時辨識(Realtime)等相關應用，並針對實驗、比賽或專題方面發想，如下是我測試的Object Detection模型，Classes為「Spongebob」、「Patrick」，影像總數量為90張。使用訓練完的模型檔(best.pt)與撰寫程式(predict.py)來即時辨識現實物體影像。
+將訓練完模型輸出，進行其他如撞球、水果、汽車或其他物件等即時辨識(Realtime)等相關應用，並針對實驗、比賽或專題方面發想，如下是我測試的Object Detection模型，Classes為「Spongebob」、「Patrick」，影像總數量為90張。使用訓練完的模型檔(best.pt)與撰寫程式(predict.py)來即時辨識現實物體影像。
 
 ![16](https://github.com/user-attachments/assets/0d103bc7-4563-4289-9809-46ba5428cb6a)
 ![17](https://github.com/user-attachments/assets/c8731e0a-6398-41f2-a811-88b27de29331)
